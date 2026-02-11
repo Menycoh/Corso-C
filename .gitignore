@@ -1,0 +1,7 @@
+# Escludi tutti i file
+*
+# Ma tieni i file sorgente e le cartelle
+!*.c
+!*/
+!.gitignore
+
